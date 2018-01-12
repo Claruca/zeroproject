@@ -6,6 +6,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="presentationlayer" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.iesemilidarder.zeroproject:error:unknown" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/presentationlayer/target/presentation-layer-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
