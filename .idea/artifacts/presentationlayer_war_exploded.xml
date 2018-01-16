@@ -7,7 +7,10 @@
           <element id="module-output" name="presentationlayer" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: com.iesemilidarder.zeroproject:error:unknown" />
+          <element id="archive" name="core-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="core" />
+          </element>
+          <element id="library" level="project" name="Maven: com.oracle:ojdbc8:12.2.0.1" />
         </element>
       </element>
       <element id="directory" name="META-INF">
