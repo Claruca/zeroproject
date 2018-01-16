@@ -15,12 +15,5 @@
         <module>restapi</module>
     </modules>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.oracle</groupId>
-            <artifactId>ojdbc8</artifactId>
-            <version>12.2.0.1</version>
-        </dependency>
-    </dependencies>
 
 </project>
